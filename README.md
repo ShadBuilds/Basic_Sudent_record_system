@@ -1,6 +1,6 @@
 # Basic Student Record System - C Implementation
 
-A simple **Student Record Management System** implemented in C. This program allows users to **add, update, delete, and view student records** in a structured manner. All student details are automatically saved to a file (`student_records.txt`) to prevent data loss.
+A simple **Student Record Management System** implemented in C. This program allows users to **add, update, delete, and view student records** in a structured manner. 
 
 ## 🎮 Features:
 1. **Add Student** - Input student details like Roll Number, Name, DOB, Mobile Number, and School ID.
